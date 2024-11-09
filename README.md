@@ -122,4 +122,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-We’re excited to share this project and look forward to seeing how it can be improved and utilized for inclusive communication!
+I am excited to share this project and look forward to seeing how it can be improved and utilized for inclusive communication!
